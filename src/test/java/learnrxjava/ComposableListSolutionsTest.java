@@ -5,10 +5,11 @@ import static org.junit.Assert.assertEquals;
 import java.util.Arrays;
 import java.util.Map;
 
-import learnrxjava.types.BoxArt;
-import learnrxjava.types.ComposableList;
-import learnrxjava.types.JSON;
-import learnrxjava.types.Video;
+import reactivex.ComposableListSolutions;
+import reactivex.models.BoxArt;
+import reactivex.models.ComposableList;
+import reactivex.models.JSON;
+import reactivex.models.Video;
 
 import org.junit.Test;
 

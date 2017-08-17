@@ -11,10 +11,12 @@ import java.util.Collections;
 import java.util.Map;
 import java.util.concurrent.atomic.AtomicInteger;
 
-import learnrxjava.types.BoxArt;
-import learnrxjava.types.JSON;
-import learnrxjava.types.Movie;
-import learnrxjava.types.Movies;
+import reactivex.ObservableExercises;
+import reactivex.ObservableSolutions;
+import reactivex.models.BoxArt;
+import reactivex.models.JSON;
+import reactivex.models.Movie;
+import reactivex.models.Movies;
 
 import org.junit.Test;
 
